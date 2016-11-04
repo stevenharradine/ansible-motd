@@ -1,0 +1,6 @@
+---
+- name: add motd template to server
+  template:
+    src: "{{ template_src }}"
+    dest: "{{ template_dest }}"
+  when: (template_src is not none) or (template_dest is not none)

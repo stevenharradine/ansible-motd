@@ -1,0 +1,12 @@
+---
+galaxy_info:
+  author: "Alex Podobnik"
+  company: "TELUS digital"
+  description: "This package makes the /etc/motd (Message of the Day) more dynamic."
+  license: MIT
+  platforms:
+    - name: Ubuntu
+      versions:
+      - trusty
+  categories:
+    - web
