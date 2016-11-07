@@ -2,4 +2,3 @@
 template_src: etc/motd
 template_dest: /etc/motd
 company_name: TELUS
-location: ~
