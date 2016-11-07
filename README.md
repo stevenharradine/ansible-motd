@@ -7,7 +7,6 @@ This package makes the /etc/motd (Message of the Day) more dynamic.
 * ```template_src```(string) - The source location of the motd template
 * ```template_dest```(string) - The destination for the motd template
 * ```company_name```(string) - The company name that will show up in the motd default template
-* ```location```(string) - The location of the playbook on the instance
 
 # Example Playbook
 
